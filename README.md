@@ -18,6 +18,7 @@ To work on the sample code, you'll need to clone your project's repository to yo
 local computer. 
 
 1. Install anaconda environment (I installed for Windows 10)
+
    https://docs.anaconda.com/anaconda/install/
 
 2. Install Jupyterlab or Jupyter Notebook. For details see 
