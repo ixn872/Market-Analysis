@@ -17,15 +17,19 @@ Getting Started
 To work on the sample code, you'll need to clone your project's repository to your
 local computer. 
 
-1. Install anaconda (I installed for Windows 10)
+1. Install anaconda environment (I installed for Windows 10)
    https://docs.anaconda.com/anaconda/install/
 
 2. Install Jupyterlab or Jupyter Notebook. For details see 
    https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
    
+3. Run this to install the necessary modules:
+                  
+        > conda install --file requirements.txt
+   
 3. Run :
 
-        $ jupyter lab or jupyter notebook 
+        > jupyter lab or jupyter notebook 
 
 5. Open http://127.0.0.1:8080/ in a web browser to view your notebook.
 
